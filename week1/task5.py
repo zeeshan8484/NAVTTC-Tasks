@@ -1,3 +1,4 @@
+# This program converts a temperature from Celsius to Fahrenheit and prints the result.
 celsius = 37.5
 
 fahrenheit = (celsius * 9/5) + 32
